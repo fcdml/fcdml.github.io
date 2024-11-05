@@ -1,13 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-# Personal Profile
+# About me
 
 Welcome to my personal homepage! I am a master's student specializing in computer vision, focused on developing and applying advanced algorithms and technologies that enable computers to understand and interpret visual information. My passion for computer vision drives me to explore how technology can be utilized to solve complex problems in the real world.
 
