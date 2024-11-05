@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "xiangwen"
+title                    : "Xiangwen"
 title_separator          : "-"
 name                     : &name "Xiangwen"
 description              : &description "hello"
