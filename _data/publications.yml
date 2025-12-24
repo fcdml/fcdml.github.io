@@ -1,22 +1,52 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SafeRoadEdu: EnhancingTraffic Safety Education with Vision-Language Models"
+    authors: <strong>Xiangwen Zhang</strong>, Xiaoming Chen, Chen Wang, Vera Chung
+    conference_short: TALE 2025
+    conference: IEEE International Conference on Teaching, Assessment and Learning for Engineering <strong>(TALE)</strong>, 2025.
+    pdf: fcdml.github.io
+    code: fcdml.github.io
+    bibtex: fcdml.github.io
+    image: ./assets/img/TALE.png
+    notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "PhysGest: Transforming Static Textbook Diagrams into Physically Realistic Videos for Enhanced Physics Education"
+    authors: Xiaowei Dai, <strong>Xiangwen Zhang</strong>, Qian Zhang, Zeke Zexi Hu, Baotong Qian, Xiaoming Chen
+    conference_short: SIGGRAPH Asia 2025 Educator's Forum
+    conference: SIGGRAPH Asia 2025 Educator's Forum.
+    pdf: fcdml.github.io
+    code: fcdml.github.io
+    page: fcdml.github.io
+    bibtex: fcdml.github.io
+    notes: Accept
+    image: ./assets/img/sa.png
+
+  - title: "Accidentsim: Generating physically realistic vehicle collision videos from real-world accident reports"
+    authors: <strong>Xiangwen Zhang</strong>, Qian Zhang, Longfei Han, Qiang Qu, and Xiaoming Chen
+    conference_short: CVPR Under Review
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: fcdml.github.io
+    code: fcdml.github.io
+    bibtex: fcdml.github.io
+    image: ./assets/img/accidentsim.png
+    notes: Under Review
+
+  - title: "SketchPlay: Intuitive Creation of Physically Realistic VR Content with Gesture-Driven Sketching"
+    authors: <strong>Xiangwen Zhang</strong>, Xiaowei Dai, Runnan Chen, Xiaoming Chen, Zeke Zexi Hu
+    conference_short: Ready for Submission
+    conference: Ready for Submission
+    pdf: fcdml.github.io
+    code: fcdml.github.io
+    bibtex: fcdml.github.io
+    image: ./assets/img/sketchplay.png
+    notes: Ready for Submission
+
+  - title: "EmoDrive: An Emotion-Aware VisionLanguage Model for HumanCentric Autonomous Driving”"
+    authors: <strong>Xiangwen Zhang</strong>, Zeke Zexi Hu, Chen Wang, Xiaoming Chen, Qiang Qu
+    conference_short: Under Review
+    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2026.
+    pdf: fcdml.github.io
+    code: fcdml.github.io
+    bibtex: fcdml.github.io
+    image: ./assets/img/emodrive.png
+    notes: Under Review

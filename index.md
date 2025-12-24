@@ -4,19 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student at  Beijing Technology and Business University
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2025]** Our paper SafeRoadEdu is accepted to IEEE TALE 2025.
+
+- **[Nov. 2025]** Our paper PhysGest is accepted to SIGGRAPH Asia 2025 Educator's Forum.
+
+- **[Nov. 2025]** Our paper AccidentSim is submitted to CVPR 2026.
+
+- **[Dec. 2025]** Our paper SketchPlay is ready for submission.
+
+- **[Sep. 2025]** Our paper EmoDrive is submitted to ICASSP 2026.
 
 {% include_relative _includes/publications.md %}
 
