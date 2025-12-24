@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4e9c43-7a25-462f-a34a-d7c245e2895d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/TALE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/accidentsim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/emodrive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sketchplay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_source_file/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="ff4e9c43-7a25-462f-a34a-d7c245e2895d" name="Default Changelist" comment="once" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +38,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766579621397</updated>
-      <workItem from="1766579622582" duration="3506000" />
+      <workItem from="1766579622582" duration="3811000" />
     </task>
+    <task id="LOCAL-00001" summary="once">
+      <created>1766583630663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766583630663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="once" />
+    <option name="LAST_COMMIT_MESSAGE" value="once" />
   </component>
 </project>
