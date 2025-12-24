@@ -12,7 +12,7 @@ main:
 
   - title: "PhysGest: Transforming Static Textbook Diagrams into Physically Realistic Videos for Enhanced Physics Education"
     authors: Xiaowei Dai, <strong>Xiangwen Zhang</strong>, Qian Zhang, Zeke Zexi Hu, Baotong Qian, Xiaoming Chen
-    conference_short: SIGGRAPH Asia 2025 Educator's Forum
+    conference_short: SIGGRAPH Asia Educator's Forum
     conference: SIGGRAPH Asia Educator's Forum.
     pdf: fcdml.github.io
     code: fcdml.github.io
