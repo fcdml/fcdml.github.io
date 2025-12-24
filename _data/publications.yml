@@ -43,7 +43,7 @@ main:
 
   - title: "EmoDrive: An Emotion-Aware VisionLanguage Model for HumanCentric Autonomous Driving”"
     authors: <strong>Xiangwen Zhang</strong>, Zeke Zexi Hu, Chen Wang, Xiaoming Chen, Qiang Qu
-    conference_short: Under Review
+    conference_short: ICASSP Under Review
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2026.
     pdf: fcdml.github.io
     code: fcdml.github.io
