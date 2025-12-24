@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff4e9c43-7a25-462f-a34a-d7c245e2895d" name="Default Changelist" comment="two">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_source_file/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_source_file/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766579621397</updated>
-      <workItem from="1766579622582" duration="4754000" />
+      <workItem from="1766579622582" duration="5058000" />
     </task>
     <task id="LOCAL-00001" summary="once">
       <created>1766583630663</created>
@@ -102,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766584674846</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="two">
+      <created>1766584881283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766584881283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="two">
+      <created>1766584892476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766584892476</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
