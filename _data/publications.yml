@@ -23,8 +23,8 @@ main:
 
   - title: "Accidentsim: Generating physically realistic vehicle collision videos from real-world accident reports"
     authors: <strong>Xiangwen Zhang</strong>, Qian Zhang, Longfei Han, Qiang Qu, and Xiaoming Chen
-    conference_short: CVPR Under Review
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    conference_short: Under Review
+    conference: 
     pdf: fcdml.github.io
     code: fcdml.github.io
     bibtex: fcdml.github.io
@@ -43,8 +43,8 @@ main:
 
   - title: "EmoDrive: An Emotion-Aware VisionLanguage Model for HumanCentric Autonomous Driving”"
     authors: <strong>Xiangwen Zhang</strong>, Zeke Zexi Hu, Chen Wang, Xiaoming Chen, Qiang Qu
-    conference_short: ICASSP Under Review
-    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2026.
+    conference_short: Under Review
+    conference: 
     pdf: fcdml.github.io
     code: fcdml.github.io
     bibtex: fcdml.github.io
