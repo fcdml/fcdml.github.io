@@ -41,7 +41,7 @@ main:
     image: ./assets/img/sketchplay.png
     notes: Ready for Submission
 
-  - title: "EmoDrive: An Emotion-Aware VisionLanguage Model for HumanCentric Autonomous Driving”"
+  - title: "EmoDrive: An Emotion-Aware VisionLanguage Model for HumanCentric Autonomous Driving"
     authors: <strong>Xiangwen Zhang</strong>, Zeke Zexi Hu, Chen Wang, Xiaoming Chen, Qiang Qu
     conference_short: Under Review
     conference: 
