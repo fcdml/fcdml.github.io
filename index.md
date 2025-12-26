@@ -17,11 +17,11 @@ My research interests sit at the intersection of Autonomous Driving, Vision-Lang
 
 - **[Nov. 2025]** Our paper PhysGest is accepted to SIGGRAPH Asia 2025 Educator's Forum.
 
-- **[Nov. 2025]** Our paper AccidentSim is submitted to CVPR 2026.
+- **[Nov. 2025]** Our paper AccidentSim is currently under review.
 
 - **[Dec. 2025]** Our paper SketchPlay is ready for submission.
 
-- **[Sep. 2025]** Our paper EmoDrive is submitted to ICASSP 2026.
+- **[Sep. 2025]** Our paper EmoDrive is currently under review.
 
 {% include_relative _includes/publications.md %}
 
