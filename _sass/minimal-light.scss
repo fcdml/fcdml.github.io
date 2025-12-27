@@ -595,3 +595,76 @@ footer {
   display:none;
   font-family: monospace;
 }
+/* --- 整体背景与文字优化 --- */
+body {
+  background-color: #fcfcfc; /* 换成极浅的灰色，增加层次感 */
+  color: #333;
+}
+
+/* --- 头像美化 --- */
+.image.avatar img {
+  border-radius: 50% !important; /* 强制圆形头像 */
+  border: 4px solid #fff;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.08); /* 增加悬浮阴影 */
+  transition: transform 0.3s ease;
+  width: 150px !important; /* 统一大小 */
+}
+.image.avatar img:hover {
+  transform: rotate(5deg) scale(1.05); /* 鼠标悬停微动特效 */
+}
+
+/* --- 论文列表卡片化布局 --- */
+.pub-row {
+  background: #ffffff;
+  border: 1px solid #f0f2f5;
+  border-radius: 12px; /* 圆角化 */
+  padding: 24px;
+  margin-bottom: 24px;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+  display: flex;
+  align-items: flex-start; /* 对齐优化 */
+}
+
+.pub-row:hover {
+  transform: translateY(-5px); /* 悬浮升起效果 */
+  box-shadow: 0 15px 30px rgba(0,0,0,0.06); /* 增强阴影 */
+  border-color: #007bff; /* 悬浮变色 */
+}
+
+/* --- 论文缩略图美化 --- */
+.publications ol.bibliography li .teaser {
+  border-radius: 8px;
+  box-shadow: none;
+  border: 1px solid #eee;
+  object-fit: contain;
+  background: #fdfdfd;
+}
+
+/* --- 按钮样式现代化 --- */
+.links a.btn {
+  border-radius: 20px !important; /* 胶囊型按钮 */
+  padding: 5px 15px !important;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6 !important;
+  color: #555 !important;
+  font-weight: 500;
+  font-size: 13px !important;
+  margin-right: 5px;
+}
+
+.links a.btn:hover {
+  background: #007bff !important; /* 主题蓝色 */
+  color: #fff !important;
+  border-color: #007bff !important;
+}
+
+/* --- 侧边栏社交图标颜色 --- */
+.social-icons a {
+  color: #666 !important;
+  font-size: 1.4rem;
+  transition: color 0.2s;
+}
+.social-icons a:hover {
+  color: #007bff !important; /* 悬停变为品牌色 */
+}
