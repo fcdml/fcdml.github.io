@@ -133,16 +133,20 @@ papertitle {
 }
 
 /* --- 布局容器 --- */
-.wrapper {
-  width: 1000px;
-  margin: 0 auto;
-}
-
+/* 找到并修改 section 样式 */
 section {
-  width: 700px;
+  width: calc(100% - 260px) !important; /* 减去 header 宽度及间距，确保撑满右侧 */
   float: right;
   padding-top: 4.0em;
   padding-bottom: 50px;
+  padding-right: 0px; /* 确保不被额外的右边距遮挡 */
+}
+
+/* 确保 wrapper 没有任何左右多余 padding */
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0; 
 }
 
 /* --- 响应式优化 (移动端自动取消固定侧边栏) --- */
