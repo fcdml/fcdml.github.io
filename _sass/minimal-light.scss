@@ -133,13 +133,12 @@ papertitle {
 }
 
 /* --- 布局容器 --- */
-/* 找到并修改 section 样式 */
 section {
-  width: calc(100% - 280px) !important; /* 这里由 700px 改为计算公式 */
+  /* 由原来的 650px 或 700px 改为下面的计算公式 */
+  width: calc(100% - 280px) !important; 
   float: right;
-  padding-right: 0 !important;   /* 确保右边没有多余边距 */
-  margin-right: 0 !important;
-  text-align: justify;           /* 让正文文字两端对齐 */
+  padding-right: 0 !important;   /* 确保最右侧没有内边距 */
+  margin-right: 0 !important;    /* 确保最右侧没有外边距 */
 }
 
 /* 确保 wrapper 没有任何左右多余 padding */
