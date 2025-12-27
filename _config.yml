@@ -34,8 +34,8 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
+# 修改 _config.yml
+font: "Sans Serif" # 将原本的 "Serif" 改为 "Sans Serif" 以获得更现代的视觉感
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
