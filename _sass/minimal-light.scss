@@ -221,25 +221,4 @@ section p a {
   text-decoration: none !important;
   border-bottom: none !important;
 }
-/* --- 字体与细节微调 --- */
 
-body {
-  font-size: 16px !important; /* 将正文从14px提升到16px，提升阅读体验 */
-}
-
-/* 增强侧边栏单位（BTBU）的辨识度 */
-header a autocolor {
-  font-weight: 600 !important;
-  opacity: 0.9;
-}
-
-/* 标题尝试混合衬线风格（可选，增加学术感） */
-h1, h2 {
-  font-family: "Crimson Pro", serif !important;
-  letter-spacing: 0.5px;
-}
-
-/* 优化 About Me 段落的连字符换行，使右侧对齐更整齐 */
-#about-me + p {
-  hyphens: auto;
-}
