@@ -14,7 +14,7 @@ main:
     authors: Xiaowei Dai, <strong>Xiangwen Zhang</strong>, Qian Zhang, Zeke Zexi Hu, Baotong Qian, Xiaoming Chen
     conference_short: SIGGRAPH Asia Educator's Forum
     conference: SIGGRAPH Asia 2025 Educator's Forum.
-    pdf: fcdml.github.io
+    pdf: https://dl.acm.org/doi/10.1145/3757372.3771875
     code: fcdml.github.io
     bibtex: fcdml.github.io
     notes: Accept
