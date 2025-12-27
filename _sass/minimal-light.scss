@@ -135,11 +135,11 @@ papertitle {
 /* --- 布局容器 --- */
 /* 找到并修改 section 样式 */
 section {
-  width: calc(100% - 260px) !important; /* 减去 header 宽度及间距，确保撑满右侧 */
+  width: calc(100% - 280px) !important; /* 这里由 700px 改为计算公式 */
   float: right;
-  padding-top: 4.0em;
-  padding-bottom: 50px;
-  padding-right: 0px; /* 确保不被额外的右边距遮挡 */
+  padding-right: 0 !important;   /* 确保右边没有多余边距 */
+  margin-right: 0 !important;
+  text-align: justify;           /* 让正文文字两端对齐 */
 }
 
 /* 确保 wrapper 没有任何左右多余 padding */
