@@ -160,6 +160,7 @@ section {
 
 /* --- 按钮样式 --- */
 .links a.btn {
+  text-decoration: none !important; /* 添加这一行，强制去掉下划线 */
   display: inline-block;
   padding: 6px 16px;
   margin: 4px 4px 4px 0;
