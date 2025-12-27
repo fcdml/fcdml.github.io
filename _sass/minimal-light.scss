@@ -176,3 +176,13 @@ section {
   color: white !important;
   border-color: #007bff;
 }
+/* 仅针对 About Me 标题后的段落进行两端对齐 */
+#about-me + p {
+  text-align: justify;
+  text-justify: inter-word; /* 针对英文优化单词间距，使边缘更整齐 */
+}
+
+/* 如果 About Me 下方有多个段落，可以使用下面的代码 */
+#about-me ~ p:not(.pub-row p) {
+  text-align: justify;
+}
