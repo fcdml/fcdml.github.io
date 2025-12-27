@@ -158,9 +158,10 @@ section {
   .pub-row { flex-direction: column; }
 }
 
-/* --- 按钮样式 --- */
+/* --- 按钮样式现代化 --- */
 .links a.btn {
-  text-decoration: none !important; /* 添加这一行，强制去掉下划线 */
+  text-decoration: none !important; /* 去掉文字下划线 */
+  border-bottom: none !important;   /* 去掉可能的底部边框线 */
   display: inline-block;
   padding: 6px 16px;
   margin: 4px 4px 4px 0;
@@ -175,5 +176,5 @@ section {
 .links a.btn:hover {
   background: #007bff;
   color: white !important;
-  border-color: #007bff;
+  text-decoration: none !important; /* 确保悬停时也没有线 */
 }
