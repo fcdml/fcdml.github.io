@@ -133,19 +133,16 @@ papertitle {
 }
 
 /* --- 布局容器 --- */
-section {
-  /* 由原来的 650px 或 700px 改为下面的计算公式 */
-  width: calc(100% - 280px) !important; 
-  float: right;
-  padding-right: 0 !important;   /* 确保最右侧没有内边距 */
-  margin-right: 0 !important;    /* 确保最右侧没有外边距 */
-}
-
-/* 确保 wrapper 没有任何左右多余 padding */
 .wrapper {
   width: 1000px;
   margin: 0 auto;
-  padding: 0; 
+}
+
+section {
+  width: 700px;
+  float: right;
+  padding-top: 4.0em;
+  padding-bottom: 50px;
 }
 
 /* --- 响应式优化 (移动端自动取消固定侧边栏) --- */
@@ -161,16 +158,10 @@ section {
   .pub-row { flex-direction: column; }
 }
 
-/* --- 按钮样式现代化修复 --- */
+/* --- 按钮样式 --- */
 .links a.btn {
-text-decoration: none !important;    /* 去掉下划线 */
-  border-bottom: none !important;
-  display: inline-flex !important;     /* 改为 flex 布局 */
-  align-items: center;
-  
-  line-height: 1.5 !important;         /* 关键：增加行高，防止底部遮挡 */
-  padding: 6px 15px 8px 15px !important; /* 增加底部 padding (8px) */
-  
+  display: inline-block;
+  padding: 6px 16px;
   margin: 4px 4px 4px 0;
   border-radius: 30px;
   background: rgba(255, 255, 255, 0.5);
@@ -183,5 +174,5 @@ text-decoration: none !important;    /* 去掉下划线 */
 .links a.btn:hover {
   background: #007bff;
   color: white !important;
-  text-decoration: none !important;
+  border-color: #007bff;
 }
