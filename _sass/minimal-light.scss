@@ -164,15 +164,13 @@ section {
 
 /* --- 按钮样式现代化修复 --- */
 .links a.btn {
-  text-decoration: none !important;    /* 强制去掉文字自带的下划线 */
-  border-bottom: none !important;      /* 去掉主题可能存在的底部边框线 */
-  
-  display: inline-flex !important;     /* 使用 flex 布局确保文字居中 */
+text-decoration: none !important;    /* 去掉下划线 */
+  border-bottom: none !important;
+  display: inline-flex !important;     /* 改为 flex 布局 */
   align-items: center;
-  justify-content: center;
   
-  line-height: 1.2 !important;         /* 关键：增加行高，防止字母（如p, g, y）底部被截断 */
-  padding: 6px 16px 8px 16px !important; /* 稍微增加底部内边距 (8px)，给文字留出空间 */
+  line-height: 1.5 !important;         /* 关键：增加行高，防止底部遮挡 */
+  padding: 6px 15px 8px 15px !important; /* 增加底部 padding (8px) */
   
   margin: 4px 4px 4px 0;
   border-radius: 30px;
